@@ -7,7 +7,7 @@ def display_list():
         print(f" * {item}")
     print("------------------------------")
 
-to_do_list = [ "Study", "Code"]
+to_do_list = ["Study", "Code"]
 
 while True :
     display_list()
